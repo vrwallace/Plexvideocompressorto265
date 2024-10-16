@@ -17,8 +17,6 @@ $MaxRetries: Maximum number of retry attempts for failed operations
 Default: 3
 $RetryDelay: Delay in seconds between retry attempts
 Default: 5
-$MaxParallelJobs: Maximum number of parallel compression jobs (currently set to 1)
-Default: 1
 $SkipExisting: A switch parameter to skip files that already exist in the output directory
 Default: Not set (false)
 $MinimumSizeBytes: Minimum file size in bytes for videos to be considered for compression
